@@ -162,7 +162,6 @@ export function Hero({ ready }: HeroProps) {
                 href="#object"
                 className="btn btn--solid"
                 data-cursor
-                data-cursor-label="ENTER"
               >
                 Explore Aether One
                 <Icon name="arrowOutward" size={16} />
